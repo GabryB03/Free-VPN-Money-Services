@@ -3,6 +3,7 @@
 * [Bright VPN](https://brightvpn.com/?lang=it)
 * [Urban VPN](https://protonvpn.com/it)
 * [Proton VPN](https://www.urban-vpn.com/it/)
+* [Octohide](https://octohide.com/)
 
 # Free Money Services
 * [PYPPL](https://www.pyypl.com/)
